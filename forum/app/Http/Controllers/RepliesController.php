@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Reply;
+use App\Reply;
 use Illuminate\Http\Request;
 
 class RepliesController extends Controller
